@@ -73,4 +73,4 @@ Following the **Industry Checklist**, these parameters provided the most stable 
 
 ## 👨‍💻 Author
 **Shivi Srivastava** Aspiring AI Engineer | Amity University Uttar Pradesh  
-[LinkedIn Profile](https://www.linkedin.com/in/shivirivastava0212/) | [GitHub Portfolio](https://github.com/shivirivastava0212)
+[LinkedIn Profile](https://www.linkedin.com/in/shivi-srivastava-8a5086310/) | [GitHub Portfolio](https://github.com/shivisrivastava0212)
