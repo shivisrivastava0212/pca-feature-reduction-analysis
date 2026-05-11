@@ -34,6 +34,8 @@ The project focused on **Explained Variance** and **Model Efficiency**. By reduc
 | **Key Insight Captured** | Noise + Signal | **Pure Spending Patterns** |
 
 ### Visual Insights
+<img width="844" height="625" alt="Screenshot 2026-05-12 at 12 47 31 AM" src="https://github.com/user-attachments/assets/27773885-f49d-4a74-a8bc-346f3627573a" />
+
 * **The Spending Gradient:** The 2D projection reveals a clear horizontal flow (PC1) where low-spenders (Purple) are mathematically separated from the High-Value "Whales" (Yellow).
 * **Outlier Detection:** PCA successfully isolated an anomalous customer (Income outlier) at $PC1 \approx 12$, who would have otherwise skewed a standard marketing model.
 
